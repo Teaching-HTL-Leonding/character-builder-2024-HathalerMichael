@@ -1,0 +1,13 @@
+.taskbar{
+  display: flex;
+  flex-direction: row;
+  width: 50%;
+  opacity: 0.8;
+}
+
+.taskbar>h2{
+  margin-right:3rem;
+}
+.taskbar>h3{
+  margin-right: 1rem;
+}

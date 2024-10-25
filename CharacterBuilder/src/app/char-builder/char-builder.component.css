@@ -1,0 +1,18 @@
+.form-group{
+  margin-bottom:10px;
+}
+form{
+  background-color: whitesmoke ;
+  padding:2rem;
+}
+
+img{
+  width: 15rem;
+  height: 15rem;
+}
+
+.content{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
